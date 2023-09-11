@@ -1,0 +1,9 @@
+[submodule "pct"]
+	path = pct
+	url = https://github.com/gengzigang/pct
+[submodule "Automated-objects-removal-inpainter"]
+	path = Automated-objects-removal-inpainter
+	url = https://github.com/sujaykhandekar/Automated-objects-removal-inpainter
+[submodule "AlphaPose"]
+	path = AlphaPose
+	url = https://github.com/MVIG-SJTU/AlphaPose
